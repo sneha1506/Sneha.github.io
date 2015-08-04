@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 30px auto;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family: 'Sans-Serif';
@@ -41,3 +41,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+p.company,p.text {
+    font-size:100%;
+}
+
+p.projects{
+    font-size:160%;
+}
+
